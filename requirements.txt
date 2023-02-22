@@ -1,0 +1,6 @@
+appium-python-client==1.0.2
+pytest==5.4.1
+opencv-python==4.4.0.42
+opencv-contrib-python==4.4.0.44
+imutils==0.5.3
+matplotlib==3.3.2
